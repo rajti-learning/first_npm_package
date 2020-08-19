@@ -1,0 +1,8 @@
+{
+  "name": "@user/randomid-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:piotr-rajtar/first_npm_package.git",
+  "author": "Piotr Rajtar <piotrek.rajtar@gmail.com>",
+  "license": "MIT"
+}
